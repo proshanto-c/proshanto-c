@@ -6,6 +6,12 @@ My work focuses on **multimodal machine learning**, **graph neural networks (GNN
 
 ---
 
+### 🛠️ Core Tech Stack
+* **Frameworks & Libraries:** PyTorch, PyTorch Geometric (PyG), Hugging Face, NumPy, Pandas, Scikit-Learn
+* **Systems & Tooling:** Linux/Unix, SLURM HPC clusters, Git, Bash
+
+---
+
 ### 🚀 Highlighted Projects
 
 #### 🔬 [ImageToChaste](https://github.com/proshanto-c/ImageToChaste)
@@ -18,4 +24,4 @@ My work focuses on **multimodal machine learning**, **graph neural networks (GNN
 
 ### 📬 Connect With Me
 * **Email:** [proshanto.chanda@eng.ox.ac.uk](mailto:proshanto.chanda@eng.ox.ac.uk)
-* **LinkedIn:** [https://www.linkedin.com/in/proshanto-chanda/](https://www.linkedin.com/in/proshanto-chanda/)
+* **LinkedIn:** [linkedin.com/in/proshanto-chanda/](https://www.linkedin.com/in/proshanto-chanda/)
